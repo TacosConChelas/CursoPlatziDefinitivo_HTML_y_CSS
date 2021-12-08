@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Configurando el repositorio pra despues subir los datos
+.vscode
